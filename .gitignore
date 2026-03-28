@@ -1,1 +1,6 @@
-echo "*" > .venv/.gitignore
+venv/
+
+__pycache__/
+*.pyc
+
+.vscode/
